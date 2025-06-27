@@ -21,3 +21,4 @@ const searchTavily = new TavilySearchResults({
  * See https://js.langchain.com/docs/how_to/custom_tools/#tool-function for more information.
  */
 export const TOOLS = [searchTavily];
+export const searchWeb = searchTavily;

@@ -681,6 +681,13 @@
     p-retry "4"
     uuid "^9.0.0"
 
+"@langchain/langgraph-swarm@^0.0.4":
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/@langchain/langgraph-swarm/-/langgraph-swarm-0.0.4.tgz#76e1c0b73d2370fa3b8a9374ee4ae595b1384b8b"
+  integrity sha512-zpVZTYe6QPbV54BN/qJ+T21mWTWyv/JOxRkgayErNWDEfz4uwlm/ZRFDpUTikaAq5J2ABT+ZJbEWDisMgzeZgQ==
+  dependencies:
+    zod "^3.23.8"
+
 "@langchain/langgraph@^0.2.57":
   version "0.2.67"
   resolved "https://registry.yarnpkg.com/@langchain/langgraph/-/langgraph-0.2.67.tgz#f154e4e8534ca78b2b73a2cd3a901d82790b0d1b"
